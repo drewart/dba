@@ -1,6 +1,6 @@
 # dba 
 
-a tools for working with databases in the shell
+Tools for working with databases in the shell
 
 ## dba
 
